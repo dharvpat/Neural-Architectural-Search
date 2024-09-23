@@ -1,4 +1,4 @@
-# Import SearchSpace from the search_space module
-from .search_space.search_space import SearchSpace
+from .nas_model import create_model
+from .search_space import BasicBlock
 
-__all__ = ['SearchSpace']
+__all__ = ['create_model', 'BasicBlock']
