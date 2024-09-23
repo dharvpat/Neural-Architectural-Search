@@ -1,5 +1,4 @@
-<details>
-  <summary>## **Approach Document**</summary>
+## **Approach Document**
 
 ### **Introduction**
 Neural Architecture Search (NAS) is an automated method to design deep learning models, eliminating the need for manual architecture tuning. In this project, we leverage NAS to optimize architectures for tasks like image classification on the CIFAR-10 dataset. NAS has become an essential tool in deep learning due to its ability to outperform human-designed architectures while reducing the time required to find optimal configurations.
@@ -88,5 +87,3 @@ According to White et al.'s paper, several best practices can guide NAS projects
 
 ### **Conclusion**
 This project demonstrates the power of Neural Architecture Search in automating the design of deep learning models. By exploring both reinforcement learning and evolutionary algorithm approaches, this project highlights how NAS can be used to find architectures that balance accuracy with computational cost, as discussed in the paper *"Neural Architecture Search: Insights from 1000 Papers"*. This project not only emphasizes advanced machine learning techniques but also showcases practical insights for building efficient and powerful neural networks.
-
-</details>
