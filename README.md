@@ -10,4 +10,4 @@ Other options described in `/utils/config.py`
 
 For the time being, only CUDA and CPU devices are suported for both methods. This may change in the future/reach out if you would like to partner on this.
 
-Also, to understand the approach behind this project, please see /docs/approach.md`
+Also, to understand the approach behind this project, please see `/docs/approach.md`
